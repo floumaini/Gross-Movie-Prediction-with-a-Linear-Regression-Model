@@ -12,7 +12,7 @@ Zara wants to use a model that can predict a movie gross amount based on the cas
 Web scraping will be used to get the data from imdb.com using:
 - BeautifulSoup
 
-Linear Regression model to predict the Gross amount ($) in the U.S.
+Data Scraped from 2015 to 2019
 
 ## Features
 
