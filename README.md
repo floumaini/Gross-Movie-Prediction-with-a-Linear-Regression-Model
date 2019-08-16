@@ -1,4 +1,4 @@
-# Metis-Project2
+# Movie Gross Prediction
 
 
 ## Scope
